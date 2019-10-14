@@ -1,117 +1,117 @@
 <Tutorial>
-	<Message id="ALPHA WORK1">Your design has now been promoted to implementation.
+	<Message id="ALPHA WORK1">Su diseño ahora ha sido promovido a implementación.
 
-The implementation phase has three stages:
+La fase de implementación tiene tres etapas:
 
-1. "Alpha", in which developers and artists create the product according to the design specifications and requirements.
+1. "Alpha", en el que los desarrolladores y artistas crean el producto de acuerdo con las especificaciones y requisitos de diseño.
 
-2. "Delay", depending on how competent your employees are, unexpected issues may crop up during alpha, which need to be addressed before moving on.
+2. "Retraso", dependiendo de cuán competentes sean sus empleados, pueden surgir problemas inesperados durante la fase alfa, que deben abordarse antes de continuar.
 
-3. "Beta", in which bugs are uncovered by your programmers and hopefully fixed before the final release.</Message>
-	<Message id="ALPHA WORK2">Depending on whether your software has any code or art your will see "code" and "art" units increase. These tell you roughly how much work is getting done, the higher the numbers are, the closer the product is to being complete.
+3. "Beta", en el que los programadores descubren los errores y esperamos que se solucionen antes del lanzamiento final.</Message>
+	<Message id="ALPHA WORK2">Dependiendo de si su software tiene algún código o arte, verá que las unidades de "código" y "arte" aumentarán. Estos le indican aproximadamente cuánto trabajo se realiza, cuanto más altos sean los números, más cerca estará el producto de completarse.
 		
-These numbers tell nothing of the actual quality of the code and art, though. To get an idea of how good your employees' work is, you need to do a peer review, start by pressing the review button and select Team.</Message>
-	<Message id="ALPHA WORK3">When your product has received some reviews, press the end button to see the results. Note that the review is based on your product as it was when you started the review, so any work done in the mean time will not be counted.</Message>
-	<Message id="ALPHA WORK4">The final score will be higher or lower than the actual quality based on who reviewed it. The team that developed the software will probably say it's better than it actually is.
+Sin embargo, estos números no dicen nada de la calidad real del código y el arte. Para tener una idea de lo bueno que es el trabajo de sus empleados, debe hacer una revisión por pares, comenzar presionando el botón de revisión y seleccionar Equipo.</Message>
+	<Message id="ALPHA WORK3">Cuando su producto haya recibido algunas revisiones, presione el botón Finalizar para ver los resultados. Tenga en cuenta que la revisión se basa en su producto tal como estaba cuando comenzó la revisión, por lo que no se contará el trabajo realizado mientras tanto.</Message>
+	<Message id="ALPHA WORK4">El puntaje final será mayor o menor que la calidad real en función de quién lo revisó. El equipo que desarrolló el software probablemente dirá que es mejor de lo que realmente es.
 
-You can scroll through the review to see how the reviewers scored different aspects of your software. The quality of the art and code can vary through development based on the skill of your employees and does not depend on how much work has been done.</Message>
-	<Message id="ALPHA WORK5">Make sure you do a press release during development as well.
+Puede desplazarse por la revisión para ver cómo los revisores calificaron diferentes aspectos de su software. La calidad del arte y el código pueden variar a través del desarrollo en función de la habilidad de sus empleados y no depende de cuánto trabajo se haya realizado.</Message>
+	<Message id="ALPHA WORK5">Asegúrese de hacer un comunicado de prensa durante el desarrollo tambien.
 
-During development you also have the option to send out a press build, so the press can try your software. Press builds require no work on your part, but make sure you have good ratings in your peer reviews and some followers before you send one out.</Message>
-	<Message id="ALPHA WORK6">Press the Promote button to move on to the delay phase when you are ready and the project will move on to the beta phase automatically.</Message>
-	<Message id="ALPHA WORK7">The beta phase is theoretically endless, but you'll have to release your project at some point, especially if you've already announced a release date.
+Durante el desarrollo, también tiene la opción de enviar una compilación de prensa, para que la prensa pueda probar su software. Las compilaciones de prensa no requieren trabajo de su parte, pero asegúrese de tener buenas calificaciones en sus revisiones por pares y algunos seguidores antes de enviar una.</Message>
+	<Message id="ALPHA WORK6">Presione el botón Promocionar para pasar a la fase de retraso cuando esté listo y el proyecto pasará a la fase beta automáticamente.</Message>
+	<Message id="ALPHA WORK7">La fase beta es teóricamente interminable, pero tendrá que lanzar su proyecto en algún momento, especialmente si ya ha anunciado una fecha de lanzamiento.
 
-It's a good idea to fix as many bugs as possible, as buggy products will lead to refunds, but don't aim to fix every possible bug in your product. When your product is released you'll be able to fix more bugs, as your customers get in contact with your support team.</Message>
-	<Message id="ALPHA WORK8">Press the release button when you're ready.
+Es una buena idea corregir tantos errores como sea posible, ya que los productos con errores generarán reembolsos, pero no intente solucionar todos los posibles errores en su producto. Cuando se lance su producto, podrá corregir más errores, a medida que sus clientes se pongan en contacto con su equipo de soporte.</Message>
+	<Message id="ALPHA WORK8">Presione el botón de lanzamiento cuando esté listo.
 		
-When you release your product you'll have to buy or print physical copies of it to sell. Later on, online software distribution will become more popular, but it is very important to have physical copies of your product before and during the 90s.
+Cuando lance su producto, tendrá que comprar o imprimir copias físicas para venderlo. Más adelante, la distribución de software en línea se volverá más popular, pero es muy importante tener copias físicas de su producto antes y durante los años 90.
 		
-You can either print physical copies yourself or order some to have immediatly for a higher price. The game will remind you of this everytime you release a product.</Message>
-	<Message id="BENEFIT1">Start by opening the benefit window</Message>
-	<Message id="BENEFIT2">Employee benefits will passively increase employee satisfaction for all your employees, which can be very helpful if you want to lower their salaries or make sure they don't just quit when they get bored.
+Puede imprimir copias físicas usted mismo u ordenar algunas para tenerlas inmediatamente por un precio más alto. El juego te recordará esto cada vez que lanzas un producto.</Message>
+	<Message id="BENEFIT1">Comience abriendo la ventana de beneficios</Message>
+	<Message id="BENEFIT2">Los beneficios para los empleados aumentarán pasivamente la satisfacción de los empleados para todos sus empleados, lo que puede ser muy útil si desea reducir sus salarios o asegurarse de que no solo renuncien cuando se aburran.
 
-Some employee benefits can have a huge and immediate financial impact, while others might result in large satisfaction increases without having any immediate consequences.
+Algunos beneficios para los empleados pueden tener un impacto financiero enorme e inmediato, mientras que otros pueden generar grandes aumentos de satisfacción sin tener consecuencias inmediatas.
 
-You can safely play with the sliders and see their impact since changes aren't put in effect until you hit Apply.</Message>
-	<Message id="BUILD MODE1">Start by entering "Build mode" by clicking the Build-button.</Message>
-	<Message id="BUILD MODE2">The game is always paused in build mode.
+Puedes jugar con seguridad con los controles deslizantes y ver su impacto ya que los cambios no se aplican hasta que presionas Aplicar.</Message>
+	<Message id="BUILD MODE1">Comience ingresando al "Modo de compilación" haciendo clic en el botón Construir.</Message>
+	<Message id="BUILD MODE2">El juego siempre está en pausa en el modo de construcción.
 
-Let's start by building a room. You have two choices for how you want to build a room.
+Comencemos por construir una habitación. Tienes dos opciones de cómo quieres construir una habitación.
 
-Click on the "Rectangle rooms" button in the build panel to build a simple rectangle room or click the "Free angle rooms" button to build rooms in any shape you want, one wall at a time.
+Haga clic en el botón "Salas de rectángulo" en el panel de construcción para construir una habitación rectangular simple o haga clic en el botón "Habitaciones de ángulo libre" para construir habitaciones en la forma que desee, una pared a la vez.
 
-You can also use the "Free angle rooms" option to split rooms into two separate rooms, by simply building a wall through an existing room.</Message>
-	<Message id="BUILD MODE3">Now click somewhere inside the area you own, which has a grid, and then click somewhere else to finish your new room. Keep an eye on the cost while moving the cursor.</Message>
-	<Message id="BUILD MODE4">You might have noticed that you were limited to the grid when you built your room. You can change the grid and building angles if you want by using the panel to the left. This might come in handy if you want to build tables along a diagonal wall for example.
+También puede usar la opción "Habitaciones de ángulo libre" para dividir las habitaciones en dos habitaciones separadas, simplemente construyendo una pared a través de una habitación existente.</Message>
+	<Message id="BUILD MODE3">Ahora haga clic en algún lugar dentro del área de su propiedad, que tiene una cuadrícula, y luego haga clic en otro lugar para terminar su nueva habitación. Mantenga un ojo en el costo mientras mueve el cursor.</Message>
+	<Message id="BUILD MODE4">Es posible que haya notado que estaba limitado a la cuadrícula cuando construyó su habitación. Puede cambiar la cuadrícula y los ángulos de construcción si lo desea utilizando el panel de la izquierda. Esto puede ser útil si desea construir tablas a lo largo de una pared diagonal, por ejemplo.
 
-If you don't like how your room looks, you can use the undo button or {KeyBind:Undo} to undo your changes.
+Si no le gusta cómo se ve su habitación, puede usar el botón Deshacer o {KeyBind: Deshacer} para deshacer sus cambios.
 
-Click Continue when you are ready.</Message>
-	<Message id="BUILD MODE5">You can move up and down floors by pressing {KeyBind:FloorUp} and {KeyBind:FloorDown}.
+Haga clic en Continuar cuando esté listo.</Message>
+	<Message id="BUILD MODE5">Puede subir y bajar pisos presionando {KeyBind:FloorUp} and {KeyBind:FloorDown}.
 
-Now let's add windows and doors. You can either select a category or search for "window" or "door" in the build panel.</Message>
-	<Message id="BUILD MODE6">Notice how the room lights up when you add windows, make sure to add enough so that your employees can see.
+Ahora agreguemos ventanas y puertas. Puede seleccionar una categoría o buscar "ventana" o "puerta" en el panel de compilación.</Message>
+	<Message id="BUILD MODE6">Observe cómo se ilumina la sala cuando agrega ventanas, asegúrese de agregar suficiente para que sus empleados puedan ver.
 
-You can inspect lighting, environment, temperature and noise conditions by clicking on and selecting the room.</Message>
-	<Message id="BUILD MODE7">You can also change the color of your rooms and furniture.
+Puede inspeccionar las condiciones de iluminación, ambiente, temperatura y ruido haciendo clic y seleccionando la habitación.</Message>
+	<Message id="BUILD MODE7">También puede cambiar el color de sus habitaciones y muebles.
 
-Try changing the color of your room by pressing {KeyBind:ContextMenu} on it and then click the "Room colors" button that resembles a brush.</Message>
-	<Message id="BUILD MODE8">You can change the color of multiple things at once by pressing {KeyBind:MultipleSelect} or {KeyBind:SweepSelect} and selecting the objects before your open the color window. The color window will suggest colors that are currently in use.
+Intente cambiar el color de su habitación presionando {KeyBind: ContextMenu} y luego haga clic en el botón "Colores de la habitación" que se asemeja a un pincel.</Message>
+	<Message id="BUILD MODE8">Puede cambiar el color de varias cosas a la vez presionando {KeyBind: MultipleSelect} o {KeyBind: SweepSelect} y seleccionando los objetos antes de abrir la ventana de color. La ventana de color sugerirá colores que están actualmente en uso.
 
-If you like the style you have given a room, you can save it by using the context menu.
+Si le gusta el estilo que le ha dado a una habitación, puede guardarlo usando el menú contextual.
 
-Click Apply when you are ready or close the window if you want to cancel your changes.</Message>
-	<Message id="BUILD MODE9">Let's put some furniture in your new room.
+Haga clic en Aplicar cuando esté listo o cierre la ventana si desea cancelar sus cambios.</Message>
+	<Message id="BUILD MODE9">Pongamos algunos muebles en tu nueva habitación.
 
-Build a new table by clicking on the "Furnish" button or searching for "table".</Message>
-	<Message id="BUILD MODE10">Now add a chair. Chairs can only be added to tables.
+Cree una nueva tabla haciendo clic en el botón "Proporcionar" o buscando "tabla".</Message>
+	<Message id="BUILD MODE10">Ahora agrega una silla. Las sillas solo se pueden agregar a las mesas.
 
-Note that some furniture, like chairs and tables, can be replaced with alternate versions after they have been placed. You can use the context menu to easily replace a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example.</Message>
-	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
+Tenga en cuenta que algunos muebles, como sillas y mesas, pueden reemplazarse con versiones alternativas después de haber sido colocados. Puede usar el menú contextual para reemplazar fácilmente muchos muebles a la vez, seleccionando todos los muebles del mismo tipo en las habitaciones seleccionadas, por ejemplo.</Message>
+	<Message id="BUILD MODE11">Finalmente agregue una computadora. Cuando agregue una computadora, haga clic y mantenga presionado el lugar donde desea agregarlo y arrastre el mouse en la dirección en la que desea que esté, finalmente suelte el botón del mouse para colocarlo.
 
-Computers have to sit on top of a table and face a chair.</Message>
-	<Message id="BUILD MODE12">When you put tables next to eachother they will be grouped together if they don't have anything on top of them. Tables that are grouped together can be used for meetings. To see which tables are grouped, just select one table and its group will be highlighted in blue.
+Las computadoras tienen que sentarse sobre una mesa y enfrentar una silla.</Message>
+	<Message id="BUILD MODE12">Cuando colocas tablas una al lado de la otra, se agruparán si no tienen nada encima. Las tablas agrupadas se pueden usar para reuniones. Para ver qué tablas están agrupadas, simplemente seleccione una tabla y su grupo se resaltará en azul.
 
-It's important you control the noise levels in your working environment, try enabling the audio overlay to see what furniture is making noise.</Message>
-	<Message id="BUILD MODE13">Your founder does not get tired, hungry, cold, lonely, stressed, need bathroom breaks or get annoyed in general, but when you hire new employees they will. So make sure to add at least one vending machine, a coffee machine, a radiator, a ventilator and a separate bathroom before you hire new employees.
+Es importante que controle los niveles de ruido en su entorno de trabajo, intente habilitar la superposición de audio para ver qué muebles están haciendo ruido.</Message>
+	<Message id="BUILD MODE13">Su fundador no se cansa, tiene hambre, tiene frío, se siente solo, estresado, no necesita ir al baño ni se molesta en general, pero cuando contrata a nuevos empleados, lo hará. Asegúrese de agregar al menos una máquina expendedora, una cafetera, un radiador, un ventilador y un baño separado antes de contratar nuevos empleados.
 
-Toggle the audio overlay to advance.</Message>
-	<Message id="BUILD MODE14">Now, let's assign the room to a team, employees from other teams may then not use it or even pass through it.
+Alterne la superposición de audio para avanzar.</Message>
+	<Message id="BUILD MODE14">Ahora, asignemos la sala a un equipo, los empleados de otros equipos pueden no usarla o incluso pasarla.
 
-Right click your new room and choose "Switch team", which resembles a circle with arrows. A window will appear, click on "Core" to assign the room to the Core team.</Message>
-	<Message id="BUILD MODE15">Remember to assign employees to a team as well. You can do this either by pressing {KeyBind:ContextMenu} on an employee and choosing "Switch team", from the employees window or directly in the hiring window.
+Haga clic derecho en su nueva habitación y elija "Cambiar equipo", que se parece a un círculo con flechas. Aparecerá una ventana, haga clic en "Core" para asignar la sala al equipo Core.</Message>
+	<Message id="BUILD MODE15">Recuerde asignar empleados a un equipo también. Puede hacerlo presionando {KeyBind: ContextMenu} en un empleado y eligiendo "Cambiar equipo", desde la ventana de empleados o directamente en la ventana de contratación.
 
-Pressing {KeyBind:MultipleSelect} with the mouse cursor on objects, rooms or employees will allow you to select several at once, you can then press {KeyBind:ContextMenu} anywhere to see the context menu. You can hold {KeyBind:SweepSelect} down to select objects of the same type quickly.
+Si presiona {KeyBind: MultipleSelect} con el cursor del mouse sobre objetos, habitaciones o empleados, podrá seleccionar varios a la vez, luego puede presionar {KeyBind: ContextMenu} en cualquier lugar para ver el menú contextual. Puede mantener presionada la tecla {KeyBind: SweepSelect} para seleccionar objetos del mismo tipo rápidamente.
 
-Try selecting at least 2 things in the game.</Message>
-	<Message id="BUILD MODE16">You can merge rooms by using the "Destroy wall" tool, or by pressing {KeyBind:MultipleSelect} to select the rooms you want to merge, press {KeyBind:ContextMenu} and then choose the "Merge rooms" option from the context menu.
+Intenta seleccionar al menos 2 cosas en el juego.</Message>
+	<Message id="BUILD MODE16">Puede fusionar salas utilizando la herramienta "Destruir muro" o presionando {KeyBind: MultipleSelect} para seleccionar las salas que desea fusionar, presione {KeyBind: ContextMenu} y luego elija la opción "Combinar salas" en el menú contextual.
 
-Click Continue when you are ready to continue.</Message>
-	<Message id="BUILD MODE18">When you no longer feel like you have enough space for your buildings, you can buy new plot areas by going to plot mode.
+Haga clic en Continuar cuando esté listo para continuar.</Message>
+	<Message id="BUILD MODE18">Cuando ya no sienta que tiene suficiente espacio para sus edificios, puede comprar nuevas áreas de trazado yendo al modo de trazado.
 
-When you are ready to continue, exit build mode.</Message>
-	<Message id="BUILD MODE17">When you are ready, open the employees window to start managing your employees.</Message>
-	<Message id="CONTRACTS1">Start by opening the contract window.</Message>
-	<Message id="CONTRACTS2">This is a list of available contracts. New contracts will be added as older ones are completed.
+Cuando esté listo para continuar, salga del modo de compilación.</Message>
+	<Message id="BUILD MODE17">Cuando esté listo, abra la ventana de empleados para comenzar a administrar a sus empleados.</Message>
+	<Message id="CONTRACTS1">Comience abriendo la ventana del contrato.</Message>
+	<Message id="CONTRACTS2">Esta es una lista de contratos disponibles. Se agregarán nuevos contratos a medida que se completen los anteriores.
 
-Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. You complete a contract by delivering the code and art units requested.
+Los contratos tienen un pago por adelantado que recibirá por aceptar el trabajo, y un pago mayor por completarlo. Usted completa un contrato entregando el código y las unidades artísticas solicitadas.
 
-Try selecting a contract in the list now.</Message>
-	<Message id="CONTRACTS3">The final payout will be subtracted from, for not completing the contract, for not completing it on time and for any unfixed bugs.
+Intente seleccionar un contrato en la lista ahora.</Message>
+	<Message id="CONTRACTS3">El pago final se restará de, por no completar el contrato, por no completarlo a tiempo y por cualquier error no corregido.
 
-Not living up to the clients quality expectations will impact your business reputation, but not your payout.
+No estar a la altura de las expectativas de calidad de los clientes afectará su reputación comercial, pero no su pago.
 
-Browse the contracts now and accept one that requires some code units.</Message>
-	<Message id="CONTRACTS4">Until an employee actually starts working on the contract, the deadline will not count down.
+Explore los contratos ahora y acepte uno que requiera algunas unidades de código.</Message>
+	<Message id="CONTRACTS4">Hasta que un empleado realmente comience a trabajar en el contrato, la fecha límite no tendrá una cuenta regresiva.
 
-During the design phase, your employees will reduce bugs in the final delivery and increase quality. Make sure you Promote your design as soon as the progress bar reaches the end, to avoid over engineering.
+Durante la fase de diseño, sus empleados reducirán los errores en la entrega final y aumentarán la calidad. Asegúrese de promover su diseño tan pronto como la barra de progreso llegue al final, para evitar la ingeniería excesiva.
 
-The tutorial will continue once you decide to move to the next phase.</Message>
-	<Message id="CONTRACTS5">When code and art units (if any) reaches the client's target value, you have completed the contract, you can continue working on it if you want to deliver a better product and receive more business reputation.
+El tutorial continuará una vez que decida pasar a la siguiente fase.</Message>
+	<Message id="CONTRACTS5">Cuando el código y las unidades artísticas (si las hay) alcanzan el valor objetivo del cliente, usted ha completado el contrato, puede continuar trabajando en él si desea entregar un mejor producto y recibir más reputación comercial.
 
-Make sure you do a client review before you move on to the bug fixing stage, to make sure it lives up to their quality expectations.
+Asegúrese de hacer una revisión del cliente antes de pasar a la etapa de corrección de errores, para asegurarse de que cumpla con sus expectativas de calidad.
 
-The tutorial will continue once you start a review.</Message>
+El tutorial continuará una vez que comience una revisión.</Message>
 	<Message id="CONTRACTS6">When you are ready, move on to the bug fixing stage.
 
 It's impossible to know exactly how many bugs a piece of software has, so just try to fix as many as you can before time runs out.

@@ -9,10 +9,10 @@
 	<Item Name="SoftwareIntroStartAdd1"> y apuesto a que los fans están emocionados de ver lo que está en la tienda</Item>
 	<Item Name="SoftwareIntroStartAdd20">, ¿vale la pena tu dinero?</Item>
 	<Item Name="SoftwareIntroStartAdd21">, ¿tiene algo bueno?</Item>
-	<Item Name="SoftwareIntroStartAdd22">, we've got the scoop!</Item>
+	<Item Name="SoftwareIntroStartAdd22">, tenemos la primicia!</Item>
 	<Item Name="SoftwareIntroStartAdd23">, eso no tiene buena pinta</Item>
 	<Item Name="SoftwareIntroStartAdd24">, no estamos emocionados</Item>
-	<Item Name="SoftwareIntroSequel0">{0} is a sequel to the flop {1}</Item>
+	<Item Name="SoftwareIntroSequel0">{0} es una secuela del fracaso {1}</Item>
 	<Item Name="SoftwareIntroSequel1">{0} es una secuela de {1}</Item>
 	<Item Name="SoftwareIntroSequel2">{0} es una secuela del altamente considerado {1}</Item>
 	<Item Name="SoftwareIntroSequelAdd0"> pero no es tan genial</Item>
@@ -31,9 +31,9 @@
 	<Item Name="SoftwareBodyCompanySW0"> nadie los conoce en el mercado de {0} </Item>
 	<Item Name="SoftwareBodyCompanySW1"> son bastante nuevos en la escena de  {0}</Item>
 	<Item Name="SoftwareBodyCompanySW2"> {0} personas los están conociendo</Item>
-	<Item Name="SoftwareBodyCompanySW3"> their name is thrown around the {0} scene</Item>
+	<Item Name="SoftwareBodyCompanySW3"> su nombre aparece en la escena {0}</Item>
 	<Item Name="SoftwareBodyCompanySW4"> son muy populares en la comunidad de {0}</Item>
-	<Item Name="SoftwareBodyCompanySW5"> if you know {0} you know this name</Item>
+	<Item Name="SoftwareBodyCompanySW5"> si sabes {0} sabes este nombre</Item>
 	<Item Name="SoftwareBodyBugs0">Nos encontramos con bastantes errores</Item>
 	<Item Name="SoftwareBodyBugs1">Esto ciertamente no es un producto libre de errores</Item>
 	<Item Name="SoftwareBodyBugs2">Hubo algunos problemas técnicos</Item>
@@ -100,10 +100,10 @@
 	<Item Name="SoftwareConclusionSaleRep1">. Necesitan construir una base de fans en este mercado</Item>
 	<Item Name="SoftwareConclusionSaleRepHope0"> y con suerte este lanzamiento ayudará</Item>
 	<Item Name="SoftwareConclusionSaleRepHope1"> y parece que podrían</Item>
-	<Item Name="SoftwareConclusionMarketing0">. They should up their marketing game</Item>
+	<Item Name="SoftwareConclusionMarketing0">. Deberían mejorar su juego de marketing</Item>
 	<Item Name="SoftwareConclusionMarketing1">. Ayudaría si pasaran tiempo haciendo correr la voz</Item>
 	<Item Name="SoftwareConclusionMarketing2">. Tal vez si lo comercializaran un poco más</Item>
-	<Item Name="SoftwareConclusionSalesReach0">. There's no one to buy it, hopefully they will port it</Item>
+	<Item Name="SoftwareConclusionSalesReach0">. No hay nadie para comprarlo, ojalá lo porten</Item>
 	<Item Name="SoftwareConclusionSalesReach1">. Deben portarlo a los sistemas operativos modernos</Item>
 	<Item Name="PressBuildIntroIntro0">{0} ha creado una compilación para {1}</Item>
 	<Item Name="PressBuildIntroIntro1">{0} está listo para presentar {1}</Item>
@@ -113,7 +113,7 @@
 	<Item Name="PressBuildIntroIntroAdd2">, parece que realmente necesitan la atención</Item>
 	<Item Name="PressBuildIntroIntroAdd3">, Son esos tipos otra vez</Item>
 	<Item Name="PressBuildIntroIntroAdd4"> y no se ve bien</Item>
-	<Item Name="PressBuildIntroIntroAdd5">, it looks like a stinker right now</Item>
+	<Item Name="PressBuildIntroIntroAdd5">, parece un mal olor en este momento</Item>
 	<Item Name="PressBuildIntroIntroAdd6">, veamos qué tienen para ofrecer</Item>
 	<Item Name="PressBuildIntroIntroAdd7">, podría valer la pena tu tiempo</Item>
 	<Item Name="PressBuildIntroIntroAdd8">, le hemos dado una prueba</Item>
@@ -172,7 +172,7 @@
 	<Item Name="PressReleaseBodyPressOptions1">No hay dulces para los ojos en el comunicado de prensa</Item>
 	<Item Name="PressReleaseBodyPressOptions2">El comunicado de prensa no muestra nada</Item>
 	<Item Name="PressReleaseBodyPressOptions3">El comunicado de prensa contiene algunas buenas imágenes</Item>
-	<Item Name="PressReleaseBodyPressOptions4">They are showing off the product with pictures</Item>
+	<Item Name="PressReleaseBodyPressOptions4">Están mostrando el producto con fotos</Item>
 	<Item Name="PressReleaseBodyPressOptions5">El comunicado de prensa tiene algunos vídeos interesantes</Item>
 	<Item Name="PressReleaseBodyPressOptions6">Lanzaron un vídeo junto con el comunicado de prensa</Item>
 	<Item Name="PressReleaseBodyPressOptions7">Han usado un vídeo para mostrar su producto.</Item>
